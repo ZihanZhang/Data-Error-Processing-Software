@@ -1,0 +1,13 @@
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\bin\Debug\多功能自动化集成计算器.exe.manifest
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\bin\Debug\多功能自动化集成计算器.application
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\bin\Debug\多功能自动化集成计算器.exe
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\bin\Debug\多功能自动化集成计算器.pdb
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\obj\x86\Debug\数据分析软件12212028张子晗.Form2.resources
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\obj\x86\Debug\多功能自动化集成计算器.Properties.Resources.resources
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\obj\x86\Debug\多功能自动化集成计算器.exe.manifest
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\obj\x86\Debug\多功能自动化集成计算器.application
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\obj\x86\Debug\多功能自动化集成计算器.exe
+F:\c#debugtest\数据误差处理软件\WindowsFormsApplication1\obj\x86\Debug\多功能自动化集成计算器.pdb

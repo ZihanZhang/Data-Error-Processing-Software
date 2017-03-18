@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{94732136-AC6A-4206-9CAD-B0832F8021FF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "C:\Users\ra\Desktop\新建文件夹\Setup1\Setup1.vdproj", "{BC0BF4D2-FD0F-4838-BCA6-2280AA6008B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94732136-AC6A-4206-9CAD-B0832F8021FF}.Debug|x86.ActiveCfg = Debug|x86
+		{94732136-AC6A-4206-9CAD-B0832F8021FF}.Debug|x86.Build.0 = Debug|x86
+		{94732136-AC6A-4206-9CAD-B0832F8021FF}.Release|x86.ActiveCfg = Release|x86
+		{94732136-AC6A-4206-9CAD-B0832F8021FF}.Release|x86.Build.0 = Release|x86
+		{BC0BF4D2-FD0F-4838-BCA6-2280AA6008B9}.Debug|x86.ActiveCfg = Debug
+		{BC0BF4D2-FD0F-4838-BCA6-2280AA6008B9}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
